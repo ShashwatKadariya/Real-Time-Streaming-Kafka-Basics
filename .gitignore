@@ -1,0 +1,8 @@
+.git
+.DS_Store # for macOS
+.env
+__pycache__/
+**__pycache__
+**.DS_Store
+venv/
+.idea/
